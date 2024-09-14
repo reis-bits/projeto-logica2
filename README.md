@@ -1,2 +1,2 @@
 # projeto-logica2
- projeto logica, só que 2
+Projeto introdutório à lógica de programação feito com apoio da Alura, pela segunda vez.
